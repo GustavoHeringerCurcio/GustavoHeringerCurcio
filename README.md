@@ -1,7 +1,7 @@
-# Hi, I'm Gustavo 👋/a>..
+# Hi, I'm Gustavo 👋..
 <br>
-I'm a junior web developer focused on building clean and functional web applications.
-I'm currently improving my skills in JavaScript, web fundamentals, and modern development tools.
+I'm a junior web developer focused on learning and building clean, functional web applications.
+Currently studying JavaScript fundamentals and modern web development tools.
 <br>
 
 ## :coffee: Skills
