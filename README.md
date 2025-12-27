@@ -8,8 +8,6 @@ Currently studying JavaScript fundamentals and modern web development tools.
 BSc in Information Systems (in progress)
 <br>
 
-## :coffee: Skills
-
 ### 👾 Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
@@ -23,16 +21,15 @@ BSc in Information Systems (in progress)
 ![vscode-git-github](https://skillicons.dev/icons?i=vscode,github,git,&theme=light) <br>
 <!--  ![sdl](https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=square&logoColor=white)&nbsp; -->
 
-<!-- ### 🚀 Currently learning
+ ### 🚀 Currently learning
 - JavaScript (fundamentals)
-- 
-- DOM manipulation
+- DOM manipulation 
 - Fetch API
 - Git & GitHub
-- React (starting soon) -->
+- React (starting soon) <br>
 
-<br>
-📫 Feel free to check my repositories and follow my progress.
+
+## 📫 Feel free to check my repositories and follow my progress.
 
 <br>
 <!--
