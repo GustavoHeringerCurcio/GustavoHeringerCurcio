@@ -4,6 +4,10 @@ I'm a junior web developer focused on learning and building clean, functional we
 Currently studying JavaScript fundamentals and modern web development tools.
 <br>
 
+### 🎓 Education
+BSc in Information Systems (in progress)
+<br>
+
 ## :coffee: Skills
 
 ### 👾 Languages
@@ -18,6 +22,14 @@ Currently studying JavaScript fundamentals and modern web development tools.
 ### ⚙️ Tools, technologies, libraries and frameworks   
 ![vscode-git-github](https://skillicons.dev/icons?i=vscode,github,git,&theme=light) <br>
 <!--  ![sdl](https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=square&logoColor=white)&nbsp; -->
+
+<!-- ### 🚀 Currently learning
+- JavaScript (fundamentals)
+- 
+- DOM manipulation
+- Fetch API
+- Git & GitHub
+- React (starting soon) -->
 
 <br>
 📫 Feel free to check my repositories and follow my progress.
