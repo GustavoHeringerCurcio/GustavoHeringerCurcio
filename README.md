@@ -1,4 +1,5 @@
-#I'm Gustavo</a>..
+# I'm Gustavo Heringer</a>..
+<br>
 🌱 ....  
 🧠 ....   
 ✨ ....
@@ -10,8 +11,8 @@
 ![html,js](https://skillicons.dev/icons?i=c,java&theme=light)
 
 ### 🗣️ Tongues proficiency
-![portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
-![english](https://img.shields.io/badge/C1-english-2ea44f?style=for-the-badge)&nbsp;
+![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
+![en](https://img.shields.io/badge/B1-ENGLISH-2ea44f?style=flat-square&logo=english&logoColor=eeb22d)&nbsp;
 <!-- ![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp; -->
 
 
