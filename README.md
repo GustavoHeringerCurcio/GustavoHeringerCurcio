@@ -1,14 +1,13 @@
-# I'm Gustavo Heringer</a>..
+# Hi, I'm Gustavo 👋/a>..
 <br>
-🌱 ....  
-🧠 ....   
-✨ ....
+I'm a junior web developer focused on building clean and functional web applications.
+I'm currently improving my skills in JavaScript, web fundamentals, and modern development tools.
 <br>
 
 ## :coffee: Skills
 
 ### 👾 Languages
-![html,js](https://skillicons.dev/icons?i=c,java&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 ### 🗣️ Tongues proficiency
 ![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
