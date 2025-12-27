@@ -16,23 +16,19 @@ I'm currently improving my skills in JavaScript, web fundamentals, and modern de
 
 
 ### ⚙️ Tools, technologies, libraries and frameworks   
-![linux, git](https://skillicons.dev/icons?i=linux,git&theme=light) <br>
-![sdl](https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=square&logoColor=white)&nbsp;
+![vscode-git-github](https://skillicons.dev/icons?i=vscode,github,git,&theme=light) <br>
+<!--  ![sdl](https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=square&logoColor=white)&nbsp; -->
 
 <br>
-<br>
+📫 Feel free to check my repositories and follow my progress.
 
+<br>
+<!--
 <div style="text-align: center" align="center">
   <h1> Let's connect </h1> 
   <h3> You can contact me at any time! </h3> 
-  <a href ="mailto: fireguiqueen@proton.me"> <img alt="prontmail" title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
-  <!-- <a href="https://www.linkedin.com/in/guilhermepiress/"> <img alt="linkedin" title="Linkedin" width="80" src="./assets/icons/linkedin.svg"></a> -->
-  <a href ="https://discord.com/users/402168526112292864"> <img alt="discord" title="Discord" width="80" src="./assets/icons/discord.svg"></a>
+  <a href ="mailto:"> <img alt="prontmail" title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
+  <!-- <a href="/"> <img alt="linkedin" title="Linkedin" width="80" src="./assets/icons/linkedin.svg"></a> -->
+  <!--
+  <a href =""> <img alt="discord" title="Discord" width="80" src="./assets/icons/discord.svg"></a>
 </div>
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Durgesh's github stats"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&theme=transparent&hide_border=true"/></a> 
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=794acc&height=110&section=footer)
