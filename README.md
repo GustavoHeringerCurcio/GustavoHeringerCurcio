@@ -9,7 +9,7 @@ BSc in Information Systems (in progress)
 <br>
 
 ### 👾 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### 🗣️ Tongues proficiency
 ![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
