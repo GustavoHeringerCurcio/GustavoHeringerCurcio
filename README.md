@@ -1,43 +1,30 @@
-# Hi, I'm Gustavo 👋..
-<br>
-I'm a junior web developer focused on learning and building clean, functional web applications.
-Currently studying JavaScript fundamentals and modern web development tools.
+# Hi, I'm Gustavo 👋.. <br>
+
+### I’m a junior web developer focused on building clean, functional, and well-structured web applications.
+
+I work with HTML, CSS, and JavaScript, and I’m currently deepening my knowledge of modern frontend development using React, Next.js, and Tailwind CSS through hands-on projects and technical challenges.
 <br>
 
 ### 🎓 Education
 BSc in Information Systems (in progress)
 <br>
 
-### 👾 Languages
+### 👾 Core Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-### 🗣️ Tongues proficiency
+### 🗣️ Languages
 ![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
 ![en](https://img.shields.io/badge/B1-ENGLISH-2ea44f?style=for-the-badge&logo=english&logoColor=eeb22d)&nbsp;
-<!-- ![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp; -->
 
 
 ### ⚙️ Tools, technologies, libraries and frameworks   
-![vscode-git-github](https://skillicons.dev/icons?i=vscode,github,git,&theme=light) <br>
-<!--  ![sdl](https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=square&logoColor=white)&nbsp; -->
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,npm,nextjs,vscode)](https://skillicons.dev)
 
- ### 🚀 Currently learning
-- JavaScript (fundamentals)
-- DOM manipulation 
-- Fetch API
-- Git & GitHub
-- React (starting soon) <br>
+ ### 🚀 Currently learning (actively practicing)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+
 
 
 ## 📫 Feel free to check my repositories and follow my progress.
 
 <br>
-<!--
-<div style="text-align: center" align="center">
-  <h1> Let's connect </h1> 
-  <h3> You can contact me at any time! </h3> 
-  <a href ="mailto:"> <img alt="prontmail" title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
-  <!-- <a href="/"> <img alt="linkedin" title="Linkedin" width="80" src="./assets/icons/linkedin.svg"></a> -->
-  <!--
-  <a href =""> <img alt="discord" title="Discord" width="80" src="./assets/icons/discord.svg"></a>
-</div>
