@@ -1,24 +1,27 @@
-# Hi, I'm Gustavo 👋 <br>
+# Hi, I'm Gustavo 👋
 
-### I’m a **Frontend Developer** focused on **building clean, modern, and user-friendly web applications**. <br>
+### Frontend Developer & Information Systems Student
 
-I work mainly with **React**, **Next.js**, and **Tailwind CSS**, focusing on **UI/UX concepts**, component design, and creating intuitive interfaces. <br>
-Alongside frontend development, I’m **strengthening my backend fundamentals** to better understand how full web applications work end-to-end. <br>
+I am a Frontend Developer with a strong focus on building modern, performant web applications. Using **React**, **Next.js**, and **Tailwind CSS**, I create scalable and intuitive user interfaces. 
 
-### 🎓 Education
-BSc in Information Systems (in progress) – UniFOA, Brazil <br>
+My development approach emphasizes solid UI/UX principles, component-driven design, and maintainable code architecture. Alongside my frontend work, I am actively expanding my backend capabilities to build complete, end-to-end solutions.
 
-### 💻 Front-end
+---
+
+### 💼 Experience & Education
+* **Frontend Developer Intern** – Remote (US-based Startup)
+* **BSc in Information Systems** (In Progress) – UniFOA, Brazil
+
+### 💻 Frontend Architecture
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" /></a>
 
-### ⚙️ Back-end Fundamentals (Learning)
+### ⚙️ Backend Fundamentals
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,prisma&theme=dark" /></a>
 
-### 🌐 Deployment & Cloud
+### 🌐 Deployment, Cloud & VPS
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" align="center" /></a>
-<img src="./assets/render.png" height="48" alt="Render" align="center" style="margin-left: 5px;" />
 
-### 🛠 Core Tools & Technologies
+### 🛠️ Core Tools & Technologies
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" align="center" /></a>
 <img src="./assets/insomnia.png" height="48" alt="Insomnia" align="center" style="margin-left: 5px;" />
 
@@ -26,13 +29,14 @@ BSc in Information Systems (in progress) – UniFOA, Brazil <br>
 <img src="./assets/copilot.png" height="48" alt="GitHub Copilot" align="center" /> <img src="./assets/cline.png" height="48" alt="Cline AI" align="center" style="margin-left: 15px;" />
 
 ### 🗣️ Languages
-![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
-![en](https://img.shields.io/badge/B1-ENGLISH-2ea44f?style=for-the-badge&logo=english&logoColor=eeb22d)&nbsp;
+![pt-br](https://img.shields.io/badge/Portuguese-Native-eeb22d?style=for-the-badge)&nbsp;
+![en](https://img.shields.io/badge/English-B1_Intermediate-2ea44f?style=for-the-badge&logo=english&logoColor=eeb22d)&nbsp;
 
-### 🚀 Currently Learning & Practicing
-Building projects with **React**, **Next.js**, and **Tailwind CSS**, improving **UI/UX quality**, and studying **backend fundamentals** with Node.js, MongoDB, and PostgreSQL. <br>
+---
 
-### 🎯 Professional Goal
-My long-term goal is to become a **Full Stack Developer**, combining strong frontend expertise with solid backend knowledge to build complete and scalable web applications.
+### 🚀 Current Focus & Professional Goal
 
-## 📫 Feel free to check my repositories and follow my progress.
+* **Current Focus:** Mastering the end-to-end software development lifecycle. While refining my frontend architecture skills, I am diving deep into backend ecosystems, database management, and cloud infrastructure (including VPS provisioning and CI/CD pipelines) to ensure I can independently build, ship, and maintain robust applications.
+* **Long-Term Goal:** Evolving into a highly proficient Full Stack Developer recognized for making sound architectural decisions. I aim to master industry best practices to engineer scalable, secure, and high-performance web applications that solve real-world problems.
+
+## 📫 **Feel free to check my repositories and follow my progress.**
