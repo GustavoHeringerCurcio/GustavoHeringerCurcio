@@ -24,10 +24,10 @@ I am a Software Developer focused on building modern, performant web application
 <img src="./assets/insomnia.png" height="48" alt="Insomnia" align="center" style="margin-left: 5px;" />
 
 ### 🤖 AI-Assisted Development
-<img src="./assets/copilot.png" height="48" alt="GitHub Copilot" align="center" /> 
-<img src="./assets/cline.png" height="48" alt="Cline AI" align="center" style="margin-left: 10px;" /> 
-<img src="./assets/opencode.png" height="48" alt="OpenCode" align="center" style="margin-left: 10px;" /> 
-<img src="./assets/kilocode.png" height="48" alt="Kilocode" align="center" style="margin-left: 10px;" />
+<img src="./assets/copilot.png" height="48" alt="GitHub Copilot" />&nbsp;
+<img src="./assets/cline.png" height="48" alt="Cline AI" style="margin-left: 10px;" />&nbsp;
+<img src="./assets/opencode.png" height="48" alt="OpenCode" style="margin-left: 10px;" />&nbsp;
+<img src="./assets/kilocode.png" height="48" alt="Kilocode" style="margin-left: 10px;" />
 
 ### 🗣️ Languages
 ![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
