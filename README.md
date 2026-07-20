@@ -11,20 +11,23 @@ I am a Software Developer focused on building modern, performant web application
 * **BSc in Information Systems** (In Progress) – UniFOA, Brazil
 
 ### 💻 Frontend Architecture
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,vite&theme=dark" /></a>
 
 ### ⚙️ Backend Fundamentals
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,prisma&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,redis,prisma,supabase&theme=dark" /></a>
 
 ### 🌐 Deployment, Cloud & VPS
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" align="center" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,vercel&theme=dark" align="center" /></a>
 
-### 🛠️ Core Tools & Technologies
+### 🛠️ Core Tools
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" align="center" /></a>
 <img src="./assets/insomnia.png" height="48" alt="Insomnia" align="center" style="margin-left: 5px;" />
 
 ### 🤖 AI-Assisted Development
-<img src="./assets/copilot.png" height="48" alt="GitHub Copilot" align="center" /> <img src="./assets/cline.png" height="48" alt="Cline AI" align="center" style="margin-left: 15px;" />
+<img src="./assets/copilot.png" height="48" alt="GitHub Copilot" align="center" /> 
+<img src="./assets/cline.png" height="48" alt="Cline AI" align="center" style="margin-left: 10px;" /> 
+<img src="./assets/opencode.png" height="48" alt="OpenCode" align="center" style="margin-left: 10px;" /> 
+<img src="./assets/kilocode.png" height="48" alt="Kilocode" align="center" style="margin-left: 10px;" />
 
 ### 🗣️ Languages
 ![pt-br](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
